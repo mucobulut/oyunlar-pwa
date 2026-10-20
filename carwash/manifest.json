@@ -1,0 +1,51 @@
+{
+  "id": "./?app=araba_yikama",
+  "name": "Car Wash Games for Kids",
+  "short_name": "Car Wash",
+  "description": "Welcome to Bubble Town Garage – the happiest car wash in town! Wash, fix, paint and drive 16 adorable vehicles with real faces: they giggle when you scrub them, blush when they get stickers and cheer when they shine.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": [
+    "fullscreen",
+    "standalone"
+  ],
+  "orientation": "landscape",
+  "background_color": "#2F8CFF",
+  "theme_color": "#2F8CFF",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "games",
+    "kids",
+    "education",
+    "entertainment"
+  ],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/Icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/Icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
